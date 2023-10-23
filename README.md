@@ -1,2 +1,2 @@
 # sosianenergy
-A New  Model for the sosian energy site a 
+A New  Model for the sosian energy site 
